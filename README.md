@@ -70,8 +70,7 @@ This is the **fully integrated AI workflow** combining all the above modules for
 
 ---
 
-##  Demo Video (Optional)  
-If you’ve recorded a video of the tool in action:
+##  Demo Video 
 
 https://drive.google.com/file/d/12WF3lnpbw7bSb4a7kf6OzwYrx_oiOk7m/view?usp=drive_link
 
