@@ -73,7 +73,7 @@ This is the **fully integrated AI workflow** combining all the above modules for
 ##  Demo Video (Optional)  
 If you’ve recorded a video of the tool in action:
 
-[![Watch Demo](https://drive.google.com/file/d/12WF3lnpbw7bSb4a7kf6OzwYrx_oiOk7m/view?usp=drive_link)
+https://drive.google.com/file/d/12WF3lnpbw7bSb4a7kf6OzwYrx_oiOk7m/view?usp=drive_link
 
 
 agent link https://app.relevanceai.com/agents/d7b62b/14f7ea06-4126-4801-a309-a04f4c9d6ab4/87c476bc-b03d-4bc8-a390-e4e88c010496/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false
